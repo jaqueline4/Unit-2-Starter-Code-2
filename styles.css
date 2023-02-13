@@ -1,0 +1,77 @@
+/* The code on lines 2-4 centers the text of all h1's on the page.*/
+body
+{background-color:#000000;
+    color:#8B4EA2;
+}
+h1 {
+    text-align: center;
+}
+
+/*The code on lines 6-11 centers all images on the page and gives them a width of 400px.*/
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+
+    
+
+
+
+
+
+/* The code on lines 14-16 centers the text of all h2's on the page*/
+h2 {
+    text-align: center;
+}
+
+/* The code on lines 19-22 aligns all the sections horizontally on the bottom*/
+.sectionsContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* The code on lines 25-28 gives  a solid black border to section and puts space between them (the margin) */
+.section {
+    border: 5px black solid;
+    margin: 9px;
+    
+
+}
+body{
+    background-color:lightpink;
+}
+    a:hover {
+  background-color: purple;
+}
+
+/*https://www.unwomen.org/en/news-stories/statement/2022/06/statement-reproductive-rights-are-womens-rights-and-human-rights#:~:text=Statement%3A%20Reproductive%20rights%20are%20women's%20rights%20and%20human%20rights,-Page%20navigation%20Page&text=To%20be%20able%20to%20exercise,information%2C%20education%2C%20and%20services.*/
+a:hover {
+    color:aquamarine;
+}
+h1 { font-family: ‘Pacifico’, serif; }
+h1{
+    font-family: "Comic Sans";
+    font-size: 38px;
+    text-align: center;
+    color: purple;
+}
+img {
+    border: 5px solid purple;
+    width: 200px;
+}
+img {
+    border: 5px solid purple;
+    width: 200px;
+}
+
+img {
+    border: 5px solid purple;
+    width: 200px;
+}
+
+
+
+
+     
